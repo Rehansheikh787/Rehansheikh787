@@ -7,7 +7,7 @@
 I build hands-on with AI products, agentic workflows, and no-code/low-code tools — not just to demo them, but to understand the real design tradeoffs behind AI product decisions.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Rehansheikh787-181717?style=flat-square&logo=github)](https://github.com/Rehansheikh787)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
 
 </div>
 
