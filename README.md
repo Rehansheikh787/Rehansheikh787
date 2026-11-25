@@ -19,9 +19,9 @@ My projects cover AI product development, workflow automation, and product case 
 
 | Featured project | What to look for |
 |---|---|
+| [WeakSpot — AI Product Management Capstone (PDF)](https://drive.google.com/file/d/1isuuvHvzgbew80KjQqbHr1UxZLavIy07/view) | Certificate-course case study for an AI study assistant that diagnoses weak topics and plans revision for competitive exam aspirants. Includes discovery, a PRD, wireframes, responsible AI design, and an experiment plan. |
 | [Zomato Multiorder Product Case Study](https://github.com/Rehansheikh787/Zomato-Multiorder-Product-Case-Study) | Independent case study with a PRD, mobile and web prototypes, and a sprint plan for ordering from multiple restaurants. |
 | [AI Chief of Staff](https://github.com/Rehansheikh787/Cheif-of-staff-Ai) | Gmail triage, reply drafting, and calendar assistance with explicit approval before sending or booking. |
-| [Second Brain](https://github.com/Rehansheikh787/Second-Brain-Self-Organizing-Knowledge-Management-System) | A knowledge app that organizes notes and answers questions with citations. The README explains hybrid retrieval and fallback behavior. |
 
 ---
 
