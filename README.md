@@ -15,7 +15,13 @@ I build hands-on with AI products, agentic workflows, and no-code/low-code tools
 
 ## 🧭 What This Portfolio Covers
 
-Every repo below is a hands-on build — AI-native products, multi-agent automation, and PM artifacts — with a consistent focus on real prompts, architecture decisions, and reliability design, not just polished demos.
+My projects cover AI product development, workflow automation, and product case studies. I document the user problem, what I built or proposed, and the tradeoffs behind the decisions.
+
+| Featured project | What to look for |
+|---|---|
+| [Zomato Multiorder Product Case Study](https://github.com/Rehansheikh787/Zomato-Multiorder-Product-Case-Study) | Independent case study with a PRD, mobile and web prototypes, and a sprint plan for ordering from multiple restaurants. |
+| [AI Chief of Staff](https://github.com/Rehansheikh787/Cheif-of-staff-Ai) | Gmail triage, reply drafting, and calendar assistance with explicit approval before sending or booking. |
+| [Second Brain](https://github.com/Rehansheikh787/Second-Brain-Self-Organizing-Knowledge-Management-System) | A knowledge app that organizes notes and answers questions with citations. The README explains hybrid retrieval and fallback behavior. |
 
 ---
 
@@ -30,6 +36,9 @@ Complete, working apps with real AI integration, reliability patterns, and promp
 | [AI Chief of Staff](https://github.com/Rehansheikh787/Cheif-of-staff-Ai) | Gmail triage + AI draft ghostwriter + calendar booking, human-in-the-loop | Approval Gate; persona/few-shot prompting |
 | [StudyPilot](https://github.com/Rehansheikh787/StudyPilot) | AI study planner with adaptive replanning + GitHub Actions automation | Progress-aware replanning; reliability layer |
 | [AI Travel Itinerary Planner](https://github.com/Rehansheikh787/AI-Travel-Itinerary-Planner) | Lovable frontend + n8n backend, fully AI-generated full-stack app | Prompt-as-spec discipline; API contract ownership |
+| [Second Brain](https://github.com/Rehansheikh787/Second-Brain-Self-Organizing-Knowledge-Management-System) | Self-organizing notes with a knowledge graph and cited answers | Hybrid retrieval and fallback design |
+| [EdgeDash](https://github.com/Rehansheikh787/EdgeDash-autonomous-career-agent) | Career intelligence dashboard for job matching and skill gaps | Deterministic fit scoring and data quality checks |
+| [Rahi](https://github.com/Rehansheikh787/rahi-browser-agent) | Chrome side-panel assistant with human review of proposed actions | User control and approval design |
 
 ---
 
@@ -53,8 +62,8 @@ Case studies and delivery-process work — the non-code side of product manageme
 | Project | What It Is | Key Skill |
 |---|---|---|
 | [ChatGPT for Students](https://github.com/Rehansheikh787/ChatGPT-for-student-CaseStudy) | 4D case study: ChatGPT as a proactive study companion | Product discovery, opportunity solution tree |
-| [Multi-Restaurant PRD](https://github.com/Rehansheikh787/PRD-file-Portfolio) | Full PRD — single checkout across multiple restaurants | Scoping ambiguity into a buildable v1 |
-| [SpendWise Sprint Planning](https://github.com/Rehansheikh787/SpendWise-Sprint-Planning) | Backlog structuring (Epic→Story→AC) and live sprint execution in Jira | Story pointing, dependency-based sequencing |
+| [Zomato Multiorder Product Case Study](https://github.com/Rehansheikh787/Zomato-Multiorder-Product-Case-Study) | Independent PRD, prototypes, and delivery plan for multi-restaurant ordering | MVP prioritization and delivery tradeoffs |
+| [SpendWise Sprint Planning](https://github.com/Rehansheikh787/Jira-learning-SpendWise-Sprint-Planning) | Backlog and sprint planning exercise in Jira | Acceptance criteria, story points, and dependencies |
 
 ---
 
@@ -62,7 +71,7 @@ Case studies and delivery-process work — the non-code side of product manageme
 
 | Project | What It Is | Key Skill |
 |---|---|---|
-| [UI/UX for AI PMs](https://github.com/Rehansheikh787/UI-UX-for-AI-PMs) | UX fundamentals + a 6-tool AI chain from persona to a live deployed prototype | Prompt-as-spec design, chained AI tooling |
+| [UI/UX for AI PMs](https://github.com/Rehansheikh787/UI-UX-for-Ai-PM) | UX fundamentals + a 6-tool AI chain from persona to a live deployed prototype | Prompt-as-spec design, chained AI tooling |
 
 ---
 
@@ -71,6 +80,7 @@ Case studies and delivery-process work — the non-code side of product manageme
 | Project | What It Is |
 |---|---|
 | [LLM Fine-Tuning Demo](https://github.com/Rehansheikh787/Finetunning-repo) | Hands-on fine-tuning walkthrough — before/after output, real loss curves |
+| [Food Image Classifier](https://github.com/Rehansheikh787/Hugging-Face-Image-classifier) | Gradio deployment exercise using an existing Food-101 model on Hugging Face Spaces |
 | [Memory Game](https://github.com/Rehansheikh787/memory-game-for-portfolio) | Accessible HTML/CSS/JS memory game with dark mode, keyboard controls, local high scores |
 
 ---
@@ -86,6 +96,6 @@ Case studies and delivery-process work — the non-code side of product manageme
 
 <div align="center">
 
-Every repo README follows the same standard: real architecture diagrams, actual prompts (not paraphrased), reliability/fallback design, and honest "what this demonstrates" sections — built to be read by a technical reviewer, not just skimmed.
+The linked READMEs contain the case studies, demos, and implementation details for each project.
 
 </div>
