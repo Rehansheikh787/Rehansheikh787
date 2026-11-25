@@ -37,6 +37,7 @@ Complete, working apps with real AI integration, reliability patterns, and promp
 | [StudyPilot](https://github.com/Rehansheikh787/StudyPilot) | AI study planner with adaptive replanning + GitHub Actions automation | Progress-aware replanning; reliability layer |
 | [AI Travel Itinerary Planner](https://github.com/Rehansheikh787/AI-Travel-Itinerary-Planner) | Lovable frontend + n8n backend, fully AI-generated full-stack app | Prompt-as-spec discipline; API contract ownership |
 | [Second Brain](https://github.com/Rehansheikh787/Second-Brain-Self-Organizing-Knowledge-Management-System) | Self-organizing notes with a knowledge graph and cited answers | Hybrid retrieval and fallback design |
+| [WhatsApp Cruise Control](https://github.com/Rehansheikh787/Whatsapp-cruise-control) | Course prototype that decides when to reply, acknowledge media, or stay silent | Reply boundaries, simulation mode, and operator controls |
 | [EdgeDash](https://github.com/Rehansheikh787/EdgeDash-autonomous-career-agent) | Career intelligence dashboard for job matching and skill gaps | Deterministic fit scoring and data quality checks |
 | [Rahi](https://github.com/Rehansheikh787/rahi-browser-agent) | Chrome side-panel assistant with human review of proposed actions | User control and approval design |
 
